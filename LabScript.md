@@ -14,6 +14,28 @@ sudo chmod +x NoLogYT.sh
 
 ---
 
+### `// banner preview`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║        ███╗   ██╗ ██████╗ ██╗      ██████╗  ██████╗             ║
+║        ████╗  ██║██╔═══██╗██║     ██╔═══██╗██╔════╝             ║
+║        ██╔██╗ ██║██║   ██║██║     ██║   ██║██║  ███╗            ║
+║        ██║╚██╗██║██║   ██║██║     ██║   ██║██║   ██║            ║
+║        ██║ ╚████║╚██████╔╝███████╗╚██████╔╝╚██████╔╝            ║
+║        ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝            ║
+║                                                                  ║
+║            Google Cloud Arcade Lab — Initializing...            ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  YT  ›  https://www.youtube.com/@NoLogYT                        ║
+║  TG  ›  https://t.me/NoLogYT                                    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
 ### `// done. `
 
 ---
@@ -24,6 +46,6 @@ sudo chmod +x NoLogYT.sh
 
 `// stay connected`
 
-[![Telegram](https://img.shields.io/badge/Telegram-NoLogYT-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+NoLogYt)
+[![Telegram](https://img.shields.io/badge/Telegram-NoLogYT-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NoLogYt)
 [![YouTube](https://img.shields.io/badge/YouTube-NoLogYt-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@NoLogYt?sub_confirmation=1)
 [![Instagram](https://img.shields.io/badge/Instagram-NoLogYt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/NoLogYt/)
